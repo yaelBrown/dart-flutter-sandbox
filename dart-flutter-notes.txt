@@ -1,0 +1,35 @@
+google ui toolkit for building natively compiled apps for mobile, web, and desktop. 
+
+build ios and android apps using a single codebase
+
+cross platform - mac / windows / linux (building on ios use a mac)
+
+extremely fast
+    does not have that extra javascript bridge
+    uses native arm architecture
+
+
+
+uses dart
+    OOP language
+    optimized for ui
+    fast on all platforms
+
+    similar to javascript with elements of java
+
+Flutter (similar to react)
+    Everything in flutter is a widgets
+    uses material design
+    scaffold, appbar, container, image, icon, etc
+
+    stateless and stateful
+        stateless - immutable
+        statefull - mutable state that can be redrawn on the screen multiple times
+
+    build method
+
+
+avd = android virtual device
+flutter = plugin for android studio
+
+
